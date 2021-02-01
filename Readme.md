@@ -2,11 +2,13 @@
 
 ---
 
-* Relatório com os resultados no arquivo -> **Relário_resultados.ipynb**
-* Código fonte no arquivo -> **Desafio Bemol - Código Fonte.ipynb**
-* Gráficos e tabelas de saída na pasta -> **Saídas**
+:arrow_right: Relatório com os resultados no arquivo :arrow_right: **Relário_resultados.ipynb**
 
+:arrow_right: Código fonte no arquivo :arrow_right: **Desafio Bemol - Código Fonte.ipynb**
 
+:arrow_right: Gráficos e tabelas de saída na pasta :arrow_right: **Saídas**
+
+#
 OBS: Como não haviam informações sobre os campos do dataset, assumi que o dataset **Dados Questão1** são dados de venda e o **Dados Questão2** são dados de compra.
 
 Tópicos:
@@ -33,15 +35,14 @@ Tópicos:
 <img src="https://github.com/Klemersoncastro/Desafio-t-cnico-Bemol/blob/main/Entrada/img%20da%20Base%20de%20dados%20de%20entrada%201%20-%20Dados%20Quest%C3%A3o1.png?raw=true" align="center">
 
 <br>
-
 * Dataset - Dados Questão2
 
 <br>
 <img src="https://github.com/Klemersoncastro/Desafio-t-cnico-Bemol/blob/main/Entrada/img%20da%20Base%20de%20dados%20de%20entrada%202%20-%20Dados%20Quest%C3%A3o2.png?raw=true" align="center">
 
 
-<br>
 
+<br>
 ## Visualiando os 3 vendedores que mais venderam em cada filial/loja <br>(Dados - Questão1)
 
 <br>
