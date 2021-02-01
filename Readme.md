@@ -1,0 +1,1 @@
+# Desafio técnico para a vaga de Time de Dados e Projetos na Bemol
