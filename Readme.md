@@ -35,14 +35,15 @@ Tópicos:
 <img src="https://github.com/Klemersoncastro/Desafio-t-cnico-Bemol/blob/main/Entrada/img%20da%20Base%20de%20dados%20de%20entrada%201%20-%20Dados%20Quest%C3%A3o1.png?raw=true" align="center">
 
 <br>
+
 * Dataset - Dados Questão2
 
 <br>
 <img src="https://github.com/Klemersoncastro/Desafio-t-cnico-Bemol/blob/main/Entrada/img%20da%20Base%20de%20dados%20de%20entrada%202%20-%20Dados%20Quest%C3%A3o2.png?raw=true" align="center">
 
 
-
 <br>
+
 ## Visualiando os 3 vendedores que mais venderam em cada filial/loja <br>(Dados - Questão1)
 
 <br>
