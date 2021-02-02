@@ -1,11 +1,11 @@
 # Desafio técnico para a vaga de Time de Dados e Projetos  Bemol
 
 
-:arrow_right: Relatório com os resultados no arquivo :arrow_right: **Relário_resultados.ipynb**
-
 :arrow_right: Código fonte no arquivo :arrow_right: **Desafio Bemol - Código Fonte.ipynb**
 
 :arrow_right: Gráficos e tabelas de saída na pasta :arrow_right: **Saídas**
+
+:arrow_right: Relatório com os resultados de saída no arquivo :arrow_right: **Relário_resultados.ipynb** :arrow_down:
 
 #
 
