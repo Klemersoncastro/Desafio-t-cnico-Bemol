@@ -1,6 +1,5 @@
 # Desafio técnico para a vaga de Time de Dados e Projetos  Bemol
 
----
 
 :arrow_right: Relatório com os resultados no arquivo :arrow_right: **Relário_resultados.ipynb**
 
@@ -9,10 +8,49 @@
 :arrow_right: Gráficos e tabelas de saída na pasta :arrow_right: **Saídas**
 
 #
+
+### Dataset
+* Dados Questão1
+
+|num_compra|usuario|nome|Tipo de Mercadoria|Filial|data_compra|valor_compra|Imposto|CPF NA NOTA?|
+|---|---|---|---|---|---|---|---|---|
+|24937847|295|ANDERSON|SPLIT 8501 À 10000|Loja Autazes|06/04/2020 12:25:13|2582,4|116,208|Sim|
+|23600787|331|RAIMUNDO|SPLIT INV 8501À10000|Loja Manicor é |06/04/2020 14:03:55|1919,28|86,3676|Sim|
+|24298956|370|ROSILANE|SPLIT ACIMA DE 30000|Loja Manicor é |06/04/2020 14:35:14|10121,04|455,4468|Sim|
+|23802765|460|SANDRA|SPLIT 10001 À 18000|Loja Manicor é |06/04/2020 14:59:20|11724,|527,58|Sim|
+|22559356|538|JAMERSON|SPLIT 18001 À 30000|Loja Manicor é |06/04/2020 15:32:44|1157,28|52,0776|Sim|
+
+<br>
+
+* Dados Questão2
+
+|data_compra|inicio|termino|Loja|codloja|produto|EAN|Valor Unitário Sem Imposto|quantidade|valor_total|Impostos|Dinheiro de Volta (Aplicado direto no total)|
+|--|--|--|--|--|--|--|--|--|--|--|--|
+|430|05/07/2019 10:30:41|2019-07-05|2019-07-20|Unidade Manaus 1|49618556000135|Smart Pro|190199383180|3000|1|3.331,29|45|
+|430|05/07/2019 11:58:18|2019-07-05|2019-07-20|Unidade Manaus 1|49618556000135|Smart Pro|190199383180|3000|1|3.331,29|45|
+|430|05/07/2019 14:06:58|2019-07-05|2019-07-20|Unidade Manaus 1|49618556000135|Smart Pro|190199383180|3000|1|3.331,29|45|
+|430|05/07/2019 14:50:06|2019-07-05|2019-07-20|Unidade Manaus 1|49618556000135|Smart Pro|190199383180|3000|1|3.331,29|45|
+|430|05/07/2019 16:04:56|2019-07-05|2019-07-20|Unidade Manaus 1|49618556000135|Smart Pro|190199383180|3000|3|9.993,87|135|
+
+#
+
+#### Desario
+
+Confecção de relatório com gráficos e tabelas
+
+* Quem mais vendeu em tal unidade
+* Porcentagem de CPF na nota
+* Porcentagem de imposto
+* Quanto o dinheiro de volta rendeu em desconto
+* Venda por vendedor(nome)
+* Produto mais vendido
+
+<br>
+
 OBS: Como não haviam informações sobre os campos do dataset, assumi que o dataset **Dados Questão1** são dados de venda e o **Dados Questão2** são dados de compra.
 
-Tópicos:
-* Dados de entrada
+Tópicos do relatório:
+
 * Visualiando os 3 vendedores que mais venderam em cada filial/loja (Dados Questão 1)
 * Visualizando a porcentagem de pedidos de inclusão de CPF na nota em cada filial/loja (Dados Questão1)
 * Visualizando a composição do valor do produto (% de imposto em cima do produto) (Dados Questão1)
@@ -27,24 +65,9 @@ Tópicos:
 * Produto mais vendido
 (Dados - Questão1)
 
-##  Dados de entrada
+#
 
-* Dataset - Dados Questão1
-
-<br>
-<img src="https://github.com/Klemersoncastro/Desafio-t-cnico-Bemol/blob/main/Entrada/img%20da%20Base%20de%20dados%20de%20entrada%201%20-%20Dados%20Quest%C3%A3o1.png?raw=true" align="center">
-
-<br>
-
-* Dataset - Dados Questão2
-
-<br>
-<img src="https://github.com/Klemersoncastro/Desafio-t-cnico-Bemol/blob/main/Entrada/img%20da%20Base%20de%20dados%20de%20entrada%202%20-%20Dados%20Quest%C3%A3o2.png?raw=true" align="center">
-
-
-<br>
-
-## Visualiando os 3 vendedores que mais venderam em cada filial/loja <br>(Dados - Questão1)
+### Visualiando os 3 vendedores que mais venderam em cada filial/loja <br>(Dados - Questão1)
 
 <br>
 <img src="https://github.com/Klemersoncastro/Desafio-t-cnico-Bemol/blob/main/Sa%C3%ADdas/Tabela%20em%20PNG-%20Top%203%20vendedores%20de%20cada%20loja.png?raw=true" align="center">
@@ -54,7 +77,7 @@ Tópicos:
 
 <br> 
 
-## Visualizando a porcentagem de pedidos de inclusão de **CPF na nota** em cada filial/loja <br>(Dados - Questão1) 
+### Visualizando a porcentagem de pedidos de inclusão de **CPF na nota** em cada filial/loja <br>(Dados - Questão1) 
 
 <br>
 
@@ -62,7 +85,7 @@ Tópicos:
 
 <br>
 
-## Visualizando a composição do valor do produto (% de imposto em cima do produto)<br> (Dados - Questão1)
+### Visualizando a composição do valor do produto (% de imposto em cima do produto)<br> (Dados - Questão1)
 
 <br>
 
@@ -70,7 +93,7 @@ Tópicos:
 
 <br>
 
-## Vizualizando o total vendido (R$) em cada loja e o valor referente ao imposto <br>(Dados - Questão1)
+### Vizualizando o total vendido (R$) em cada loja e o valor referente ao imposto <br>(Dados - Questão1)
 
 <br>
 
@@ -78,7 +101,7 @@ Tópicos:
 
 <br>
 
-## Quanto o dinheiro de volta rendeu em desconto <br>(Dados - Questão2)
+### Quanto o dinheiro de volta rendeu em desconto <br>(Dados - Questão2)
 
 <h4>- Desconto total por produto e por filial/loja</h4>
 
@@ -88,7 +111,7 @@ Tópicos:
 
 <br>
 
-## Desconto dos produtos em relação a quantidade comprada <br>(Dados - Questão2)
+### Desconto dos produtos em relação a quantidade comprada <br>(Dados - Questão2)
 
 <br>
 
@@ -100,7 +123,7 @@ Tópicos:
 ---
 <br>
 
-## Venda por Vendedor <br>(Dados - Questão1)
+### Venda por Vendedor <br>(Dados - Questão1)
 
 <h4>-  Concentração / Distribuição da quantidade de vendas dos vendedores de cada loja </h4>
 
