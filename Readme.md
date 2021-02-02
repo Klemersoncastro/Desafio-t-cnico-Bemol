@@ -17,8 +17,7 @@
 |24937847|295|ANDERSON|SPLIT 8501 À 10000|Loja Autazes|06/04/2020 12:25:13|2582,4|116,208|Sim|
 |23600787|331|RAIMUNDO|SPLIT INV 8501À10000|Loja Manicor é |06/04/2020 14:03:55|1919,28|86,3676|Sim|
 |24298956|370|ROSILANE|SPLIT ACIMA DE 30000|Loja Manicor é |06/04/2020 14:35:14|10121,04|455,4468|Sim|
-|23802765|460|SANDRA|SPLIT 10001 À 18000|Loja Manicor é |06/04/2020 14:59:20|11724,|527,58|Sim|
-|22559356|538|JAMERSON|SPLIT 18001 À 30000|Loja Manicor é |06/04/2020 15:32:44|1157,28|52,0776|Sim|
+
 
 <br>
 
@@ -29,8 +28,7 @@
 |430|05/07/2019 10:30:41|2019-07-05|2019-07-20|Unidade Manaus 1|49618556000135|Smart Pro|190199383180|3000|1|3.331,29|45|
 |430|05/07/2019 11:58:18|2019-07-05|2019-07-20|Unidade Manaus 1|49618556000135|Smart Pro|190199383180|3000|1|3.331,29|45|
 |430|05/07/2019 14:06:58|2019-07-05|2019-07-20|Unidade Manaus 1|49618556000135|Smart Pro|190199383180|3000|1|3.331,29|45|
-|430|05/07/2019 14:50:06|2019-07-05|2019-07-20|Unidade Manaus 1|49618556000135|Smart Pro|190199383180|3000|1|3.331,29|45|
-|430|05/07/2019 16:04:56|2019-07-05|2019-07-20|Unidade Manaus 1|49618556000135|Smart Pro|190199383180|3000|3|9.993,87|135|
+
 
 #
 
@@ -45,7 +43,7 @@ Confecção de relatório com gráficos e tabelas
 * Venda por vendedor(nome)
 * Produto mais vendido
 
-<br>
+#
 
 OBS: Como não haviam informações sobre os campos do dataset, assumi que o dataset **Dados Questão1** são dados de venda e o **Dados Questão2** são dados de compra.
 
