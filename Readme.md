@@ -5,7 +5,7 @@
 
 :arrow_right: Gráficos e tabelas de saída na pasta :arrow_right: **Saídas**
 
-:arrow_right: Relatório com os resultados de saída no arquivo :arrow_right: **Relário_resultados.ipynb** :arrow_down:
+:arrow_right: Relatório com os resultados de saída no arquivo :arrow_right: **Relário_resultados.ipynb** :arrow_down: (Somente gráficos e tabelas)
 
 #
 
